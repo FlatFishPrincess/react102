@@ -8,3 +8,7 @@ export * from './Regions';
 export * from './Wine';
 export * from './WineApp';
 export * from './WineList';
+export * from './WineListPage'
+export * from './WinePage'
+export * from './RegionsPage'
+export * from './NotFound'

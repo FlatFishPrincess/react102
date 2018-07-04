@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 export class Regions extends Component {
+  
   onSelectRegion = (e, region) => {
     e.preventDefault();
     this.props.onSelectRegion(region);
